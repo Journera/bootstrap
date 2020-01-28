@@ -1,11 +1,12 @@
-$blue:    #3379b7 !default;
-$green:   #dff0d7 !default;
-$teal:    #d9edf7 !default;
-$yellow:  #fcf8e2 !default;
-$red:     #f2dede !default;
+$theme-colors: (
+  "primary": #3379b7,
+  "success": #dff0d7,
+  "warning": #fcf8e2
+) !default;
 
-$font-size-base: .75rem !default;
+$font-size-base: .95rem !default;
 $dt-width: 160px !default;
 $h2-font-size: 1.5rem !default;
+$navbar-light-active-background-color: #a7b5e0 !default;
 
 @import "bootstrap";

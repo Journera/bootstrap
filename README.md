@@ -1,6 +1,6 @@
 # BootStrap 4
 
-Journera's fork of BootStrap 4 that we will use to generate CSS files.
+Journera's fork of BootStrap 4 that we will use to generate CSS files. *Should be used for docgen only.*
 
 ## Changes
 
